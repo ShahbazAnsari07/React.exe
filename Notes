@@ -14,3 +14,8 @@
 // age: PropTypes.number
 
 // conditional rendering = allows you to control what gets rendered in your application based on certain conditions(show, hide, or change components)
+
+// React hook = Special function that allows functional components to 
+//              use React features without writing class components
+//              (useState, useEffect, useContext, useReducer, and more.)
+// useState() =  A React hook that allows the creation of a stateful variable AND a setter function to update its value in the Virtual DOM. [name, setName]
