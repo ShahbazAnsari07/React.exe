@@ -22,3 +22,9 @@
 
 // onChange = event handler used primarily with form element ex. <input>, <textarea>, <select>, <radio>
 // It triggers a function every time when the value of the input changes.
+
+
+// updater function = A function passed as an argument to setState() usually ex. setYear(year + 1)
+// Allow for safe updates based on the previous state.
+// Used with multiple state and updates and asynchronous functions
+// Good practice to use updater functions.
